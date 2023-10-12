@@ -4,9 +4,10 @@ This is only a "quiz" in the loosest sense that it's asking questions whose
 answers will be part of your grade. Please use *any resources you want*, as
 long as you list those resources (e.g. peers, websites, etc.)
 
-## Navigating logs
+### Sources:
+1. https://initialcommit.com/blog/git-mv --> Used for learning how to rename git files using git mv
 
-#### No links/support for the first four problems! I only used the hints provided in the instructions.
+## Navigating logs
 
 1. What is the SHA for the last commit made by Prof. Xanda on the branch
 xanda_0000_movie_processing?
