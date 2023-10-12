@@ -6,16 +6,27 @@ long as you list those resources (e.g. peers, websites, etc.)
 
 ## Navigating logs
 
+#### No links/support for the first four problems! I only used the hints provided in the instructions.
+
 1. What is the SHA for the last commit made by Prof. Xanda on the branch
 xanda_0000_movie_processing?
 (For this and future questions, the first 5 characters is plenty - neither
 Git nor I need the whole SHA.)
 
+Answer: 9b257
+
 2. What is the SHA for the last commit associated with line 9 of this file?
+
+Answer: b2ed3
 
 3. What did line 12 of this file say in commit d1d83?
 
+Answer: I should really finish writing this.
+
 4. What changed between commit e474c and 82045?
+
+Answer: gross_sort changed from gross_sort = lambda x : x["Gross"] to gross_sort = lambda x : int(x["Gross]).
+We also see that top_five changed from top_five = rows[:-5:-1] to rows[:-6:-1].
 
 ## Predicting merges
 
